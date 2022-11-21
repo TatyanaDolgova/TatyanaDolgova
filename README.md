@@ -1,11 +1,7 @@
-👋 Hi there
-# Меня зовут Долгова Татьяна 
-## Я фронтенд раработчик
-## Мой стек:
+### Hi there 👋, Привет!
+#### Меня зовут Татьяна Долгова. Я Frontend Develoer
+![Меня зовут Татьяна Долгова. Я Frontend Develoer]
 
-
-
-<!---
-TatyanaDolgova/TatyanaDolgova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+  <img src="https://bookflow.ru/wp-content/uploads/2016/04/programmist.jpgf" width="100"/>
+</div>
