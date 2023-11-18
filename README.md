@@ -13,6 +13,8 @@
 </div>
 
 <div align="center">
+About me |  Обо мне
+I'm Junior frontend developer
   
   ### :hammer_and_wrench: Languages and Tools I've Worked With:
   
