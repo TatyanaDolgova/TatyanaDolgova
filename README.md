@@ -11,7 +11,7 @@ About me |  Обо мне
 I'm Junior frontend developer
   
   ### :hammer_and_wrench: Languages and Tools I've Worked With:
-  ![Codewars]([https://www.codewars.com/users/rsschool_fbcaf039d39013a8/badges/micro?theme=light](https://www.codewars.com/users/TatianaDolgova/badges/large))
+  ![Codewars]([https://www.codewars.com/users/TatianaDolgova/badges/large](https://www.codewars.com/users/TatianaDolgova/badges/large))
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
